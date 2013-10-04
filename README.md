@@ -7,4 +7,4 @@ Android上的手电筒应用程序
 ![Flash_On](https://github.com/wankee/Flashlight/raw/develop/screenshots/flash_on.png "手电筒打开时的截图")
 
 ### 程序版本：
-2013.10.4 v1.0。
+2013.10.4 第一个版本：v1.0。
