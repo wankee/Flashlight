@@ -1,0 +1,30 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relative_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background_light_on" >
+
+<!--     <ToggleButton
+        android:id="@+id/flash_switch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true" />
+ -->
+
+    <ImageButton
+        android:id="@+id/flash_switch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="139dp"
+        android:adjustViewBounds="true"
+        android:background="@color/transparent"
+        android:maxHeight="200dip"
+        android:maxWidth="200dip"
+        android:scaleType="fitStart"
+        android:src="@drawable/switch_on" />
+
+</RelativeLayout>
