@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">手电筒</string>
+    <string name="app_name">简单手电筒</string>
     <string name="action_settings">Settings</string>
+    <string name="menu_about">关于</string>
+    <string name="about_title">关于</string>
+    <string name="about_message">简单手电筒v1.0</string>
 </resources>
