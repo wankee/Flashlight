@@ -1,5 +1,5 @@
 /** Automatically generated file. DO NOT MODIFY */
-package com.example.flashlight;
+package com.lelewan.flashlight;
 
 public final class BuildConfig {
     public final static boolean DEBUG = true;

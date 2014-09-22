@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.example.flashlight;
+package com.lelewan.flashlight;
 
 public final class R {
     public static final class attr {
@@ -32,8 +32,8 @@ public final class R {
         public static final int switch_on=0x7f020005;
     }
     public static final class id {
-        public static final int action_settings=0x7f090002;
         public static final int flash_switch=0x7f090001;
+        public static final int menu_about=0x7f090002;
         public static final int relative_layout=0x7f090000;
     }
     public static final class layout {
@@ -43,8 +43,11 @@ public final class R {
         public static final int main=0x7f080000;
     }
     public static final class string {
+        public static final int about_message=0x7f060004;
+        public static final int about_title=0x7f060003;
         public static final int action_settings=0x7f060001;
         public static final int app_name=0x7f060000;
+        public static final int menu_about=0x7f060002;
     }
     public static final class style {
         public static final int ActivityTheme=0x7f070002;
